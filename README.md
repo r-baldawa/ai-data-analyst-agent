@@ -2,8 +2,6 @@
 
 An AI data analysis agent built using the [Agno](https://github.com/agno-agi/agno) agent framework and Anthropic's Claude Sonnet model. Upload a CSV or Excel file and ask questions about it in natural language — the agent generates DuckDB SQL under the hood to answer your questions, and remembers prior turns in the conversation so follow-up questions carry context.
 
-Adapted from the [ai_data_analysis_agent](https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/starter_ai_agents/ai_data_analysis_agent) example in [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps), swapped from OpenAI to Claude and extended with multi-turn chat.
-
 ## Features
 
 - 📤 **File upload**: CSV and Excel, with automatic type/date inference
