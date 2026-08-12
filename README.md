@@ -1,4 +1,4 @@
-# 📊 AI Data Analyst Agent (Claude edition)
+# 📊 AI Data Analyst Agent
 
 An AI data analysis agent built using the [Agno](https://github.com/agno-agi/agno) agent framework and Anthropic's Claude Sonnet model. Upload a CSV or Excel file and ask questions about it in natural language — the agent generates DuckDB SQL under the hood to answer your questions, and remembers prior turns in the conversation so follow-up questions carry context.
 
